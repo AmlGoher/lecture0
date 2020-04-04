@@ -1,0 +1,51 @@
+p {color:rgb(0, 0, 0);
+background-color:#411910}
+.container{
+    width: 100%;
+    display:flex;
+    flex-wrap:wrap;
+    
+  }
+  import turtle
+aml = turtle.Turtle()
+aml.color("yellow")
+for side in [1, 2, 3, 4]:
+    aml.forward(100)
+    aml.right(90)
+
+  
+  .box{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  
+  .red{
+    background-color: red;
+  }
+  
+  .green{
+    background-color: green;
+  }
+  
+  .yellow{
+    background-color: yellow;
+  }
+  ul{
+    width:300px;
+    hight:300px;
+    display:flex;
+    flex-wrap: wrap;
+  }
+      li{
+        border:1px solid black; 
+        width:90px;
+        height:90px;
+        list-style:none;
+        font-family:serif;
+     font-size:80px;
+        background:lightblue;
+  }

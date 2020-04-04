@@ -1,0 +1,64 @@
+
+ 
+h1{ 
+    color:rgb(225, 225, 225);
+    text-align: center;
+    font-family:  bell mt;
+    font-style: italic;
+    font-size: 40;
+    font-weight:bolder;}
+label{
+    color:#03030393;
+    font-style: normal;
+    font-weight: bold;
+    font-stretch: semi-expanded;
+    font-display:initial ;
+    font-size:20;
+}
+#lolo{
+    background-color: rgb(143, 121, 75);
+}
+
+body{
+    margin:0px;
+    padding:0px;
+    background-color:#201704;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 50% ;
+    margin: 10px;
+}
+
+
+p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size:28;
+    color: rgb(14, 13, 13);
+}
+
+
+    
+table{
+    border:1px solid white;
+    border-collapse:collapse;
+    text-align:centerd;
+}
+th,td{
+    border:1px solid;
+    color:#FFFF;
+    text-align:centerd;
+
+}
+tr{
+    text-shadow:rgb(116, 82, 33) ;
+}
+    
+
+.important{
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+    font-size:30;
+}
